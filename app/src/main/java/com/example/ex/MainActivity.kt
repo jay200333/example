@@ -48,3 +48,8 @@ fun GreetingPreview() {
         Greeting("Android")
     }
 }
+
+fun a(
+    sdf: Int,
+    sdaf: Int,
+): Int = sdf + sdaf
