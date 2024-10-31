@@ -58,3 +58,6 @@ fun a(
 fun asdf() {
     println(123)
 }
+fun aaaaaa() {
+              println(123)
+}
