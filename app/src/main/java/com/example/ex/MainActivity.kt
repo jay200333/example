@@ -70,4 +70,4 @@ fun a12345() {
 
 }
 
-
+fun fddfdf(): Int = 123
