@@ -71,5 +71,4 @@ fun a12345() {
 
 fun fddfdf(): Int = 123
 
-
-fun check():           Int =     123
+fun check(): Int = 123
