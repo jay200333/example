@@ -16,6 +16,7 @@ import com.example.ex.ui.theme.ExTheme
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        asdf()
         enableEdgeToEdge()
         setContent {
             ExTheme {
@@ -53,3 +54,21 @@ fun a(
     sdf: Int,
     sdaf: Int,
 ): Int = sdf + sdaf
+
+fun asdf() {
+    println(123)
+}
+
+fun aaaaaa() {
+    println(123)
+}
+
+fun ccccc() {
+}
+
+fun a12345() {
+}
+
+fun fddfdf(): Int = 123
+
+fun check(): Int = 123
